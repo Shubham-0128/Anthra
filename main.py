@@ -1,4 +1,4 @@
-from tasks import run_command
+
 import whisper
 import sounddevice as sd
 import numpy as np
